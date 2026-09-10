@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm Arya Dwi Putra, a dedicated computer science undergraduate aspiring to become a proficient professional in tech industry.<br>
-I'm currently studying at Universitas Tanjungpura.
+I'm Arya Dwi Putra, a dedicated computer science graduate aspiring to become a proficient professional in tech industry.<br>
+
 
 <!--
 **adwira/adwira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
